@@ -14,8 +14,8 @@ const inventors = [
     { first: 'Lise', last: 'Meitner', year: 1878, passed: 1968 },
     { first: 'Hanna', last: 'Hammarström', year: 1829, passed: 1909 },
   ];
-// test 2
-const people = [
+
+  const people = [
   'Becker, Carl',
   'Beckett, Samuel',
   'Beddoes, Mick',
